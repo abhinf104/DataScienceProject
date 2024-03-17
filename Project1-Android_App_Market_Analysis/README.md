@@ -15,9 +15,3 @@ The data files for this project are as follows:
 - `apps.csv`: This file contains all the details of the apps on Google Play. These are the features that describe an app.
 - `user_reviews.csv`: This file contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score.
 
-## Future Work
-
-This is just the beginning. As we gather more data and develop more sophisticated analytics techniques, the possibilities for insights and growth are endless.
-
-
-Information about the project's license.
