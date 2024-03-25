@@ -12,6 +12,7 @@
   - **Project 7**: Preparing data for modelling by applying the knowledge of data types and categorical data.
   - **Project 8**: From the History of Nobel Prize Winners, I tried to find out who won, who got snubbed, and if there are any biases in how the honours are awarded using data manipulation and visualization skills.
   - **Project 9**: Analying crime Data to find out where crime is most likely to occur so that resources should be allocated to planning to protect the city 
+  - **Project 10**: Video Game Analysis Project using SQL
       
 
 - **Skills and Concepts Learned**: Data Cleaning and Preprocessing, Exploratory Data Analysis, Statistical Analysis, Machine Learning Algorithms, Data Visualization.
